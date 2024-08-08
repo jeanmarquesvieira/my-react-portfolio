@@ -1,0 +1,20 @@
+{
+	"Home": "Início",
+	"getInTouch": "Entre em contato",
+	"projects": "Projetos",
+	"contacts": "Contatos",
+	"greetings": "Olá, meu nome é Jean!",
+	"hello": "Olá,",
+	"myNameIs": "sou o Jean!",
+	"description": "Criei este website para mostrar as minhas habilidades de programação enquanto solidifico meu conhecimento e aprendo novos conceitos.",
+	"technologies": "Tecnologias",
+	"techSubtitle": "Tecnologias com as quais trabalhei ou estudei.",
+	"close": "Fechar",
+	"softSkillsSubtitle": "Características que possuo que podem ser úteis no ambiente de trabalho.",
+	"beingPlayed": "Tocando",
+	"play": "Tocar",
+	"searchError": "Ocorreu um erro na busca",
+	"playError": "Você tem que ter uma sessão ativa no Spotify",
+	"sptfDescription": "Esta funcionalidade te permite pesquisar, tocar e pausar uma múscia na sua conta do Spotify. Você deve estar logado e com uma sessão ativa para que isso funcione.",
+	"projsDesc": "Projetos que fiz seguindo tutoriais e documentação."
+}
