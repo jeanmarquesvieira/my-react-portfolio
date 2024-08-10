@@ -1,3 +1,3 @@
-# react-portfolio
+# react-portfolio (in progress)
 
-Creating my portfolio with React.js, Tailwind CSS and Node.js.
+Creating my portfolio with React.js, Tailwind CSS, Node.js and Express.
