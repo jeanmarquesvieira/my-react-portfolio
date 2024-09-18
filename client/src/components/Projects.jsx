@@ -10,8 +10,8 @@ const Projects = () => {
   return (
     <>
       <div className="flex h-screen justify-center items-center font-fira pt-10">
-        <div className="m-auto w-full max-w-sm p-4 border-mainBlue rounded-lg shadow sm:p-6 border-4 border-solid bg-secondaryBlue borderd-rounded-lg mt-24">
-          <h5 className="mb-3 text-base font-extrabold text-gray-900 md:text-xl">
+        <div className="m-8 sm:mb-56 w-full max-w-xl p-4 sm:p-6 border-mainBlue rounded-lg shadow border-4 border-solid bg-secondaryBlue borderd-rounded-lg mb-36">
+          <h5 className="mb-3 text-base font-extrabold md:text-center text-gray-900 md:text-xl">
             {translations[currentLanguage].projects}
           </h5>
           <p className="text-sm font-normal text-gray-800">

@@ -11,6 +11,8 @@
 	"techSubtitle": "Technologies I've either worked with or studied.",
 	"close": "Close",
 	"beingPlayed": "Playing...",
+	"searchForSong": "Search a song",
+	"searchBtn": "Search",
 	"play": "Play",
 	"searchError": "An error occurred during search",
 	"playError": "You must have an active Spotify session",
