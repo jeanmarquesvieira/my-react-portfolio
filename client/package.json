@@ -1,9 +1,8 @@
 {
   "name": "jmv",
   "version": "0.1.0",
-  "proxy": "http://localhost:8000",
   "private": true,
-  "homepage": "https://jeanmarquesvieira.github.io/",
+  "homepage": "https://jeanmarquesvieira.github.io/my-react-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
