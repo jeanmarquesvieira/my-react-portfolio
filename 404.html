@@ -12,8 +12,16 @@
 	<div class="container">
 		<h1>404</h1>
 		<p>Oops! The page you're looking for doesn't exist.</p>
-		<a href="/" class="button">Go Back to Home</a>
+		<a href="/my-react-portfolio" class="button">Go Back to Home</a>
 	</div>
+	<script>
+		var path = window.location.pathname;
+		var origin = window.location.origin;
+		if (!path.startsWith('/my-react-portfolio')) {
+			var newPath = origin + '/my-react-portfolio' + path;
+			window.location.replace(newPath);
+		}
+	</script>
 </body>
 
 </html>
