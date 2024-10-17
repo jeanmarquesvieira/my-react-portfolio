@@ -5,14 +5,6 @@ import { useLanguage } from "../LanguageSource";
 const Contacts = () => {
   const { translations, currentLanguage } = useLanguage();
 
-  const g4Click = () => {
-    window.gtag("event", "github_btn", {
-      event_category: "Button",
-      event_label: "GitHub Button",
-      value: 1,
-    });
-  };
-
   return (
     <>
       <h1 className="text-2xl font-extrabold text-center font-fira pt-40">
@@ -39,7 +31,6 @@ const Contacts = () => {
         <a
           className="ga4-github hover:scale-110 w-40 tracking-wide h-11 flex items-center rounded-lg bg-mainBlue shadow-md shadow-gray-200 group font-bold transition-all duration-300"
           href="https://github.com/jeanmarquesvieira"
-          onClick={g4Click}
           target="_blank"
           rel="noopener noreferrer"
         >

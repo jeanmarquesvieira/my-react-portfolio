@@ -35,11 +35,10 @@ const Home = () => {
             <img
               src={jmv}
               alt="jmv"
-              className="inset-0 h-full w-full object-cover max-w-48 rounded-lg md:h-64"
+              className="inset-0 h-full w-full object-cover max-w-48 rounded-3xl md:h-64 mt-10"
             />
           </div>
-          <div className="flex text-center md:text-start flex-col justify-center h-full md:h-auto px-4">
-            {/* Added 'justify-center' and removed 'align-middle' */}
+          <div className="flex text-center md:text-start flex-col justify-center h-full md:h-auto">
             <div className="py-6">
               {translations[currentLanguage].description}
             </div>
