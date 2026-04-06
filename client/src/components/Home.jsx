@@ -38,7 +38,7 @@ const Home = () => {
               className="inset-0 h-full w-full object-cover max-w-48 rounded-3xl md:h-64 mt-10"
             />
           </div>
-          <div className="flex text-center md:text-start flex-col justify-center h-full md:h-auto">
+          <div className="flex text-center md:text-start flex-col justify-center h-full md:h-auto md:w-2/3">
             <div className="py-6">
               {translations[currentLanguage].description}
             </div>
